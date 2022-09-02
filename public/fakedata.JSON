@@ -1,0 +1,38 @@
+[
+    {
+        "key": 1,
+        "name": "Dental Implants",
+        "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjBcXFwvMTFcXFwvMDIxMzM3MDdcXFwvMi41NTgyODk5NS5qcGdcIixcIndpZHRoXCI6NjAwLFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImQ5MDRlNGU5YzEyMmU5NjJmNjAwZTU2ZTMwNzNjZDUzZWQyZmQzMjkifQ==/2-55828995.jpg",
+        "description": "We offer this services to you at very low cost and provide you further needs and 24 hour doctors help.we have best doctor who are expertise about dental implants."
+    },
+    {
+        "key": 2,
+        "name": "Cosmetic Dentistry",
+        "image": "https://www.crevecoeurfamilydental.com/wp-content/uploads/2020/05/Cosmetic-Dentistry1.jpg",
+        "description": "We have this services and our best surgeon do this operation and 24 hours medical services"
+    },
+    {
+        "key": 3,
+        "name": "Pediatric Dentistry",
+        "image": "https://cedardental.co.uk/images/children-dentistry.jpg",
+        "description": "This hard operation will cure you in a blink of eyes with our expert doctors."
+    },
+    {
+        "key": 4,
+        "name": "24 hour Doctor Service",
+        "image": "https://namaydentistry.com/wp-content/uploads/2019/08/oral_cancer_screening-400x250.jpg",
+        "description": "We have 24 hour doctor  service and where you can contact with them easily at any time"
+    },
+    {
+        "key": 5,
+        "name": "Medicine Service 24 hour",
+        "image": "https://dentalife.com.np/wp-content/uploads/2019/01/IMG_20190121_132849-1024x576.jpg",
+        "description": "we have 24 hour medical service like doctor consultancy at any time.emergency medicine service and providing medical equipment at any time "
+    },
+    {
+        "key": 6,
+        "name": "Emergency Ambulance service",
+        "image": "https://img.medicalexpo.com/images_me/photo-g/77756-14692673.jpg",
+        "description": "We have 24 hour ambulance service it will help to the emergency patient and if needed a doctor will also provide with ambulance"
+    }
+]

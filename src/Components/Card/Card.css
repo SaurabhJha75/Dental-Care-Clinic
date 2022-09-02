@@ -1,0 +1,32 @@
+.service {
+  height: 100%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px grey;
+
+  margin: 15px;
+}
+
+.hCard {
+  background-color: #57a3f088;
+  transform: perspective(900px) rotateY(15deg);
+  transition: transform 1s ease 0s;
+
+  box-shadow: rgba(5, 5, 5, 0.25) 0px 25px 50px -12px;
+}
+
+.btnCard {
+  background-color: #f3efe0;
+  color: #2f8394;
+}
+
+.hCard:hover {
+  transform: scale(1.1);
+  transform: perspective(3000px) rotateY(60deg);
+  cursor: pointer;
+}
+.cardpic {
+  height: 350px;
+  width: 100%;
+  clip-path: circle(40%);
+  object-fit: contain;
+}

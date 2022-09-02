@@ -1,0 +1,65 @@
+.banner {
+  background: linear-gradient(#71b0f8b6, #cf6cd8e5);
+
+  min-height: 450px;
+}
+/* banner text styles */
+
+.banner-Text {
+  text-align: center;
+  margin: 100px auto;
+  color: black;
+  font-size: 1.5rem;
+}
+.box {
+  background-color: #002345;
+  margin: 0px auto;
+  min-height: 250px;
+  color: whitesmoke;
+  width: 70%;
+  position: relative;
+  top: -20px;
+  border: 2px solid gray;
+  border-radius: 25px;
+}
+.form-img {
+  height: 250px;
+  width: 300px;
+  margin-top: 5px;
+  padding: 5px;
+}
+.appointment form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.appointment form input,
+textarea,
+select {
+  width: 50%;
+  padding: 10px;
+  border-radius: 30px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  box-shadow: 5px 5px rgba(95, 89, 89, 0.829);
+}
+@media only screen and (max-width: 600px) {
+  .form-img {
+    height: 150px;
+    width: 200px;
+    margin-top: 3px;
+    padding: 3px;
+  }
+
+  .appointment form input,
+  textarea,
+  select {
+    width: 70%;
+    padding: 10px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    box-shadow: 5px 5px rgba(95, 89, 89, 0.829);
+  }
+}
